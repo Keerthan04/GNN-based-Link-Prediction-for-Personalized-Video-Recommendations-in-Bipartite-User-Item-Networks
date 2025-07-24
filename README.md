@@ -1,0 +1,2 @@
+# GNN-based-Link-Prediction-for-Personalized-Video-Recommendations-in-Bipartite-User-Item-Networks
+This project explores the use of Graph Neural Networks (GNNs) for building a personalized video recommendation system, modeled as a link prediction problem on a bipartite graph. The system aims to predict which unseen movies a user is most likely to interact with, based on historical interaction data and the structure of the user–item graph.
